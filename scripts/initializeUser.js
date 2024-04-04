@@ -38,4 +38,4 @@ if (process.argv.length < 5) {
 addInitialUser(...process.argv.slice(2));
 
 // To add initial user run this in terminal
-// node scripts/initializeUser.js Mani KC admin@gmail.com 123456 director
+// node scripts/initializeUser.js Mani KC admin@gmail.com 123456 director ??
